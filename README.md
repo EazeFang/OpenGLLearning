@@ -1,2 +1,2 @@
 # OpenGLLearning
-simple demos for test OpenGL
+simple demos for testing OpenGL
